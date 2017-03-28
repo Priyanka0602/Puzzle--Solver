@@ -1,0 +1,2 @@
+# Puzzle--Solver
+100 people standing in a circle in an order 1 to 100. No. 1 has a sword. He kills the next person (i.e. No. 2) and gives the sword to the next (i.e. No. 3). All people do the same until only 1 survives. Which number survives at the last?   Ans:73rd person  this is one of the most general question often asked in interviews, write a program without using any loops, i.e. with a complexity of O(1) to find the last remaining person when an input is N is given. Assume people are standing in order.
